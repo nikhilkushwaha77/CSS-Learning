@@ -1,0 +1,17 @@
+     *{
+            margin: 0;
+            padding: 0;
+        }
+        #new h1 {
+    
+            background-color :chartreuse;
+            text-align: center;
+            text-transform: uppercase;
+            }
+            #outer{
+                font-size: 10px;
+
+            }
+            #inner{
+                font-size:30px;
+            }
